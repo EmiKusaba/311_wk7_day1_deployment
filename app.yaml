@@ -1,4 +1,4 @@
 runtime: nodejs10
 
 env_variables:
-  CLOUD_INSTANCE: fake-instance
+  CLOUD_INSTANCE: valiant-well-265615:us-central1:emi19860615
